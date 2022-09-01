@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+Hello everyone! I am Graduate student in Master pragram of Statistics. 
 
-Maybe say a some things about yourself.
+I hope to post more about markdown skills and discuss problems with everybody.
 
-Or maybe what you plan to blog about.
+My email is yli276@ncsu.edu
+
+![ABQ_Sunrise](https://user-images.githubusercontent.com/111838876/187849455-d483b78f-5c58-4765-9a3c-7c1520b939b4.jpg)
