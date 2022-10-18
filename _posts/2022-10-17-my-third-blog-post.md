@@ -1,0 +1,7 @@
+## This is my third blog post
+
+Exploratory Data Analysis (EDA) is an essential step to get know a big picture of the data before implanting specific analysis method. My goal of doing EDA is to understand the data structure at a high level before choosing the appropriate analytical method. The high-level characteristics include sample size, any missing value, types of variables, correlations, any observable patterns, etc. All these preparation steps will help me to identify possible mistakes, verify assumptions and understand relationships among variables, which eventually guide me to select the appropriate model.
+
+The common EDA methods include graphs (such as Box plot, Histogram, Scatter plot, Bar chart, etc.), Dimensionality reduction (such as PCA, Nonlinear dimensionality reduction, ect) and quantitative techniques. 
+
+I think the most important methods are approaching by graphs and data summaries (both visualized and quantitative). For example, by looking at a scatter plot it’s easier to identify the pattern between variables as well as possible outliers. Histogram is very helpful to verify model assumptions and visualize the overall shape of the data set. For summaries I would like to know what types all variables are,  any significant correlations between any two variables, how big the sample size is, quantitative summaries (mean, median standard deviation, IQR etc) of the key variables. 
