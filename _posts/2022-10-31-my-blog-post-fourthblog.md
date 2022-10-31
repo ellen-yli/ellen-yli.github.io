@@ -1,4 +1,4 @@
-## This is my third blog post (Variable Selection)
+## This is my fourth blog post (Variable Selection)
 
 In real data set analysis process, when too many variables (predictors) in the model, It will cause the problems such as adding noise, collinearity, etc. As regarding a regression model, we need to find the as smallest model as possible that can fit the data.
 
